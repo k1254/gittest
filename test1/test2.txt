@@ -1,0 +1,3 @@
+this is test
+master側で操作
+この時featureで追加したディレクトリは見れない
